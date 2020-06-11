@@ -1,2 +1,3 @@
-# FL-for-Image-Classification
-Practice on TFF by following the tutorial
+# Federated Learning tutorials
+
+Collection of notes and codes for studying Federated Learning
